@@ -1,0 +1,86 @@
+2.1.4
+=====
+
+GITHUB-103: Add support for maps
+
+2.1.3
+=====
+
+GITHUB-99: Add support for Sets
+
+2.1.2
+=====
+
+GITHUB-94: Doubles everywhere
+GITHUB-95: Fix array serialization issues
+
+2.1.1
+=====
+
+- GITHUB-93: Fix for Android.
+
+2.1.0
+=====
+
+- Added the JSON Path API.
+
+2.0.12
+======
+
+- Better error messages.
+- GITHUB-91: Escape quotes in strings
+
+2.0.11
+======
+
+- GITHUB-85: Support enum for toJson().
+
+2.0.10
+======
+
+- GITHUB-84: Values in list are not properly converted
+
+2.0.9
+=====
+
+- GITHUB-82: Ignored fields not handled correctly
+- GITHUB-83: Exception when serializing Map
+
+2.0.8
+=====
+
+- GITHUB-81: Adjust the DecimalFormat to work on Android
+
+2.0.7
+=====
+
+- GITHUB-80: Supports both Double and Float correctly
+- GITHUB-79: toJson() was not honoring @Json(name)
+- GITHUB-78: Added @Json(ignored)
+
+2.0.6
+=====
+
+- Add support for Doubles.
+
+2.0.5
+=====
+
+- Fix how Maps are mapped.
+- Performance improvement
+- Better error message
+
+2.0.4
+=====
+
+- Removed the restriction for @JvmOverloads for classes with default parameters.
+
+2.0.2
+=====
+
+- Added: Streaming API
+
+2.0.0
+=====
+
+- Added: Object binding API
